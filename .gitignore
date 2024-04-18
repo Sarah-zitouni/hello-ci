@@ -1,0 +1,26 @@
+# Ignore les fichiers générés par Maven
+target/
+
+# Ignore les fichiers d'IDE
+*.iml
+.idea/
+*.class
+
+# Ignore les fichiers de build
+bin/
+build/
+
+# Ignore les fichiers de configuration spécifiques à l'IDE
+.project
+.settings/
+
+# Ignore les fichiers de log
+*.log
+
+# Ignore les fichiers temporaires
+*.tmp
+*.temp
+
+# Ignore les fichiers de sauvegarde
+*~
+*.swp
